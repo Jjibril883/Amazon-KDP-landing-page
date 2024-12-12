@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unlock Your Free Amazon KDP Course</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+        }
+
+        header {
+            background-color: #4CAF50;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+
+        .content {
+            text-align: center;
+            padding: 30px;
+        }
+
+        .content h2 {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+
+        .button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .button:hover {
+            background-color: #45a049;
+        }
+
+        .whatsapp-icon {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #25D366;
+            padding: 10px;
+            border-radius: 50%;
+            font-size: 24px;
+            color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            cursor: pointer;
+        }
+
+        .whatsapp-icon a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .video-section {
+            margin-top: 30px;
+            padding: 30px;
+            background-color: #f1f1f1;
+        }
+
+        .video-section iframe {
+            width: 100%;
+            max-width: 800px;
+            height: 450px;
+        }
+
+        .encouragement {
+            margin-top: 50px;
+            padding: 30px;
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            font-size: 1.5em;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Get Your Free Amazon KDP Course</h1>
+</header>
+
+<div class="content">
+    <h2>Unlock the Full Course for Free!</h2>
+    <p>Run the task below and gain access to the Amazon KDP course.</p>
+    <a href="https://www.lnkmeup.com/unlock/50795" class="button" target="_blank">Run Task and Get Amazon KDP Course for Free</a>
+</div>
+
+<!-- WhatsApp Icon -->
+<div class="whatsapp-icon">
+    <a href="https://wa.link/y7qn99" target="_blank">💬</a>
+</div>
+
+<!-- Video Section -->
+<div class="video-section">
+    <h2>How to Run the Task</h2>
+    <p>This video will guide you on how to run the task step-by-step.</p>
+    <iframe src="https://www.youtube.com/embed/your-video-id-here" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<!-- Encouragement Section -->
+<div class="encouragement">
+    <h2>You Are Almost There!</h2>
+    <p>Just follow the instructions and you'll be ready to start your Amazon KDP journey in no time!</p>
+</div>
+
+</body>
+</html>
